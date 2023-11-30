@@ -63,7 +63,7 @@ Languages encode information about person onto their verbs in various ways, incl
 
 2. Languages can also distinguish between animate and inanimate objects or beings. For example, some languages use a different verb form when the subject is animate versus inanimate. Additionally, some languages distinguish between humans and non-human animate beings. Just like person hierarchy, *animacy hierarchy* exists.
 
-3. Some languages, such as Spanish and French, use different verb forms to indicate gender. In some cases, the verb form changes based on the gender of the subject or object. For example, in Spanish, the verb "to love" has different forms for "I love" (yo amo) and "she loves" (ella ama).
+3. Some languages, such as Russian and Polish, use different verb forms to indicate gender. In some cases, the verb form changes based on the gender of the subject or object. For example, in Russian, the verb "to love" has different forms in the past tense depending on the gender of the subject, if the subject is masculine, "любил", if the subject is feminine, "любила", if the subject is plural "любили", and if it's neuter, "любило". Some languages, like Polish, mark for both gender and person in the past tense.
 
 4. Languages also have different ways of encoding plural information onto verbs. For example, some languages have separate verb forms for singular and plural subjects or objects. Additionally, some languages have specific verb forms for addressing multiple people, such as the English "you all" or "y'all" for the plural "you".
 
